@@ -1,5 +1,4 @@
 # Indian-Startup-funding-Analysis
-]
 
 This project analyzes startup funding data from `startup_funding.csv` to explore trends, top sectors, cities, startups, and investment types. It uses **pandas** for data manipulation and **matplotlib/seaborn** for visualization.
 
